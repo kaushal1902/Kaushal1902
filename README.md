@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Kaushal Dangodra</h1>
+<h3 align="center">Aspiring Software Engineer | Java Developer | Full Stack Developer</h3>
+# 💫 About Me:
+## 👨‍💻 About Me<br><br>I am a Final-Year Information Technology student at St. Francis Institute of Technology (SFIT), Mumbai, passionate about Web Development and Software Engineering. I enjoy transforming ideas into innovative, user-centric digital solutions and continuously exploring emerging technologies to enhance my technical expertise.<br><br>With experience in developing full-stack web applications and database-driven systems, I am committed to building scalable, efficient, and impactful software that addresses real-world challenges.<br><br>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br><br>👤 Name       : Kaushal Dangodra<br><br>📍 Location   : Mumbai, India<br><br>🎓 Education  : B.E. in Information Technology<br>                St. Francis Institute of Technology (SFIT)<br><br>💻 Role       : Web Developer<br><br>🚀 Interests  : Full-Stack Development | Software Engineering<br>                Artificial Intelligence | Cloud Computing<br><br>🌱 Currently Learning :<br>                Advanced Web Development<br>                System Design<br>                Artificial Intelligence<br>                Data Science<br><br>🤝 Open To    : Internships | Freelance Projects<br>                Open-Source Contributions<br>                Collaborative Development<br><br>📫 Contact    : kaushaldangodra@gmail.com<br><br>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br>🚀 What I'm Currently Working On<br>## 🚀 What I'm Up To<br><br>- 🌐 Building modern and responsive web applications<br>- 📚 Strengthening Data Structures & Algorithms skills<br>- ☁️ Exploring Cloud Computing concepts and deployment practices<br>- 🤖 Learning Artificial Intelligence and its practical applications<br>- 🛠️ Developing projects that solve real-world problems<br>- 🤝 Contributing to collaborative and open-source projects<br>💻 Tech Stack<br>## 💻 Tech Stack<br><br>Frontend:<br>HTML5 • CSS3 • JavaScript • Bootstrap<br><br>Backend:<br>Java • Python • Flask<br><br>Database:<br>MySQL • SQLite<br><br>Tools & Platforms:<br>Git • GitHub • VS Code • NetBeans<br><br><br>Concepts:<br>Object-Oriented Programming<br>Data Structures & Algorithms<br>Database Management Systems<br>Software Engineering<br><br>Passionate Web Developer and Final-Year Information Technology student at St. Francis Institute of Technology (SFIT), Mumbai. Dedicated to building efficient, scalable, and user-focused applications while continuously learning modern technologies and industry best practices. Eager to contribute to innovative projects and grow as a software professional.<br>
 
-<!--
-**kaushal1902/Kaushal1902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Kaushaldangodra0219) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaushaldangodra@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://komarev.com/ghpvc/?username=kaushal0219&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
